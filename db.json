@@ -1,0 +1,58 @@
+{
+    "Plantas": [
+        {
+            "id": 1,
+            "Nome popular": "Jibóia",
+            "image": "https://portalvidalivre.com/uploads/article/image/680/AdobeStock_283997368.jpeg",
+            "Categoria": "Folhagem",
+            "Família": "Araceae",
+            "Ordem": "Alismatales",
+            "Gênero": "Epipremnum",
+            "Plantio": "O ano todo",
+            "Floração": "Sem",
+            "Frutos": "Não comestiveis",
+            "Espécie": "Epipremnum pinnatum."
+        },
+        {
+            "id": 2,
+            "Nome popular": "costela-de-adão",
+            "image": "https://blog.plantei.com.br/wp-content/uploads/2021/07/costela-de-adao.jpg",
+            "Categoria": "Folhagem",
+            "Família": "Araceae",
+            "Ordem": "Américas Central",
+            "Gênero": "Monstera",
+            "Plantio": "O ano todo",
+            "Floração": "Primavera",
+            "Frutos": "Comestiveis",
+            "Espécie": "Monstera deliciosa."
+        },
+         {
+            "id": 3,
+            "Nome popular": "Samambaia-havaiana",
+            "image": "https://minhasplantas.s3.amazonaws.com/media/plantas/galeria/Nephrolepis-exaltata-Marisa-04.jpg",
+            "Categoria": "Samambaias",
+            "Família": "Nephrolepidaceae",
+            "Ordem": "Polypodiales",
+            "Gênero": "Nephrolepis",
+            "Plantio": "O ano todo",
+            "Floração": "Sem",
+            "Frutos": "Não comestiveis",
+            "Espécie": "Nephrolepis exaltata Marisa."
+        },
+        {
+            "id": 4,
+            "Nome popular": "Rabo-de-macaco",
+            "image": "https://www.floresefolhagens.com.br/wp-content/uploads/2015/11/cacto-rabo-de-macaco-hildewintera-colademononis-1-6-400x445.jpg",
+            "Categoria": "Cactos",
+            "Família": "Opuntiaceae",
+            "Ordem": "Caryophyllales",
+            "Gênero": "Cleistocactus",
+            "Plantio": "O ano todo",
+            "Floração": "Primavera, verão",
+            "Frutos": "Não Comestiveis",
+            "Espécie": "Cleistocactus colademononis."
+        }
+
+     
+    ]
+}
